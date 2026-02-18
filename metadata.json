@@ -1,0 +1,8 @@
+{
+  "name": "HealthLInk",
+  "description": "A comprehensive, professional healthcare management dashboard for patients to track appointments, prescriptions, vitals, and connect with their care team.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
